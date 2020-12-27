@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Just learning how to use GitHub.
+Just learning how to use GitHub!
